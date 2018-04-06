@@ -46,12 +46,12 @@ int main() {
     //C = 1.0;	//set drag constant
     //A = 0.01;	//set ball area
     t = 0.0;	//set initial time
-    dt = 0.5;	//set time steps
+    dt = 0.1;	//set time steps
     tmax = 50.0;	//maximum time
 
     /* Now go through the steps until tmax is exceeded */
-    printf("time\t\txt pos\t\tyt pos\n");
-    while (t < tmax ) {
+    printf("time\t\tx(t)\t\ty(t)\n");
+    while (t < tmax && yt >= 0.0) {
         //no exact solution
         printf("%lf\t%lf\t%lf\n", t, xt, yt);	//print statement
 

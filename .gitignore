@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Debug/TrajEulerIntegration.Build.CppClean.log
+/Debug/TrajEulerIntegration.log
+/Release/TrajEulerIntegration.Build.CppClean.log
+/Release/TrajEulerIntegration.log
+/x64/Debug/TrajEulerIntegration.log
+/x64/Debug/TrajEulerIntegration.Build.CppClean.log
+/x64/Release/TrajEulerIntegration.log
+/x64/Release/TrajEulerIntegration.Build.CppClean.log
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/TrajEulerIntegration/v15/ipch/AutoPCH/db473a9cafbbcdca/MAIN.ipch
+/.vs/TrajEulerIntegration/v15/ipch/AutoPCH/d925bb4118a47aa9/MAIN.ipch
+/.vs/TrajEulerIntegration/v15/ipch/AutoPCH/99fc438da7369e5a/MAIN.ipch
+/.vs/TrajEulerIntegration/v15/ipch/AutoPCH/62fe88259e39e019/MAIN.ipch
+/.vs/TrajEulerIntegration/v15/Browse.VC.opendb
+/.vs/TrajEulerIntegration/v15/Browse.VC.db
+/.vs/TrajEulerIntegration/v15/.suo
+/.vs/TrajectoryEulerIntegration/v15/.suo

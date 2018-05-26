@@ -3,4 +3,4 @@ project(TrajectoryEulerIntegration)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(TrajectoryEulerIntegration main.cpp)
+add_executable(TrajectoryEulerIntegration TrajectoryEulerIntegration/main.cpp)
